@@ -17,7 +17,7 @@
 
 ## Current Projects
 
-- 🎬 **Shorts Factory** - Autonomous media pipeline using Gemini and GCP EventArc to architect zero-touch video production from script to render
+- 🎬 **Shorts Factory** - The Figma for video creation: AI-native workspace where copilots write narratives, design storyboards, and generate clips
 
 ### Legacy Work
 
