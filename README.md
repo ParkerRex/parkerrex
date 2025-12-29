@@ -22,6 +22,7 @@
 ## Current Projects
 
 - 🎬 **Shorts Factory** - The Figma for video creation: AI-native workspace where copilots write narratives, design storyboards, and generate clips
+- **XGPT** - CLI for getting good posts out of X. 
 
 ### Legacy Work
 
