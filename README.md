@@ -15,6 +15,10 @@
 
 > Applied AI Architect & Product Executive. Bridging the gap between the Boardroom and the IDE.
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/parkerrex)
+
 ## Current Projects
 
 - 🎬 **Shorts Factory** - The Figma for video creation: AI-native workspace where copilots write narratives, design storyboards, and generate clips
