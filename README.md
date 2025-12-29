@@ -13,7 +13,7 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Applied AI Architect & Product Executive. Bridging the gap between the Boardroom and the IDE.
+> Applied AI Architect & Product Executive.
 
 ## GitHub Activity
 
