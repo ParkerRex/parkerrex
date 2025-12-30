@@ -32,7 +32,7 @@
 - 🤖 **Automated Sales Agents** - Omni-channel autonomous agents (Voice/SMS) built on Next.js and Twilio
 - 🧠 **GPTs for Devs** - 38+ custom GPTs trained on Apple's official documentation, scaled to 100k+ users
 - 🎙️ **Vibe with AI** - A technical community and content engine for AI engineers focusing on agentic workflows
-- 📹 **Echo** - High-scale Python pipeline using 2PB of storage to automate OBS stream clipping
+- 📹 **Echo** - High-scale Python pipeline to automate OBS stream clipping
 - 📺 **YouTube Coach** - A structured weekly workflow app for YouTube creators with daily task phases
 - 🔌 **Port Killer** - A lightweight macOS menu bar app that shows your development ports and lets you kill them
 - 🛏️ **Eight Sleep Controller** - Reverse-engineered Eight Sleep's API to control smart bed via hardware buttons
