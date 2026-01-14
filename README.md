@@ -27,6 +27,7 @@
 
 ### Legacy Work
 
+- **Delivery Dudes** - Three-sided delivery marketplace scaled to $73M GMV and acquired by Waitr Holdings for $23M
 - **Deep Research** - AI-powered lead intelligence platform using Google's Gemini Interactions API to generate comprehensive buyer dossiers
 - **Zeke** - A Figma-like workstation for sifting through AI news with classification and 'hypescores'
 - **VAI-VEX** - A Skool clone for technical communities on real-time Convex infrastructure
@@ -45,13 +46,17 @@
 - **Constantly building** - Shipping AI tools and products at rapid pace
 - **Making YouTube videos** - Sharing learnings on [YouTube](https://youtube.com/@parkerrex)
 
+## Latest YouTube Videos
+
+- [Learning Agentic Harness' like Codex, OpenCode, Cline etc (free repo)](https://youtu.be/hzMXnEJ6QH0)
+- [Ramp Built Their Own Devin](https://youtu.be/Q0f6FGPLp70)
+- [This Agentic Coding Setup is Ahead of Its Time (42k Commits in 45 days)](https://youtu.be/mLAjiilAcUg)
+
 ## Latest Blog Posts
 
+- [Prompts I'm Using Going Into 2026](https://parkerrex.com/writing/prompts-2026)
+- [My Prompt Library for Agentic Coding in Early 2025](https://parkerrex.com/writing/prompt-library-agentic-coding-early-2025)
 - [The $9B Owl Who Broke the Internet](https://parkerrex.com/writing/duolingo-owl-broke-internet)
-- [The Daily Practices of Champions: Visualization, Planning, and Deliberate Training](https://parkerrex.com/writing/michael-phelps-gold-winning-routine)
-- [Alex Hormozi's Advertising Frameworks](https://parkerrex.com/writing/alex-hormozi-advertising-frameworks)
-- [The Bezos Blueprint: Unveiling the Genius Behind Amazon's Early Days](https://parkerrex.com/writing/bezos-blueprint-amazon-early-days)
-- [AI Coach: A Loaded Term, But Bear with Me](https://parkerrex.com/writing/ai-coaches-in-the-future)
 
 ## Connect
 
