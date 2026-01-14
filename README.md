@@ -1,6 +1,6 @@
 # Hi, I'm Parker
 
-📍 **Palm Beach, FL** | 🛠️ **Designer→PM→Engineer** | 🚀 **Ex-VP Product, Full time builder**
+**Palm Beach, FL** | **Designer→PM→Engineer** | **Ex-VP Product, Full time builder**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -21,23 +21,24 @@
 
 ## Current Projects
 
-- 🎬 **Shorts Factory** - The Figma for video creation: AI-native workspace where copilots write narratives, design storyboards, and generate clips
+- **Shorts Factory** - Multi-agentic video harness where AI agents collaborate to write scripts, design scenes, and generate clips
+- **Harness Howto** - Tracking system for open-source coding agents with auto-generated architecture documentation
 - **XGPT** - CLI for getting good posts out of X. 
 
 ### Legacy Work
 
-- 🔍 **Deep Research** - AI-powered lead intelligence platform using Google's Gemini Interactions API to generate comprehensive buyer dossiers
-- 📰 **Zeke** - A Figma-like workstation for sifting through AI news with classification and 'hypescores'
-- 💬 **VAI-VEX** - A Skool clone for technical communities on real-time Convex infrastructure
-- 🤖 **Automated Sales Agents** - Omni-channel autonomous agents (Voice/SMS) built on Next.js and Twilio
-- 🧠 **GPTs for Devs** - 38+ custom GPTs trained on Apple's official documentation, scaled to 100k+ users
-- 🎙️ **Vibe with AI** - A technical community and content engine for AI engineers focusing on agentic workflows
-- 📹 **Echo** - High-scale Python pipeline to automate OBS stream clipping
-- 📺 **YouTube Coach** - A structured weekly workflow app for YouTube creators with daily task phases
-- 🔌 **Port Killer** - A lightweight macOS menu bar app that shows your development ports and lets you kill them
-- 🛏️ **Eight Sleep Controller** - Reverse-engineered Eight Sleep's API to control smart bed via hardware buttons
-- 📋 **AI-SDLC** - A markdown-driven CLI that guides developers through an 8-step workflow from idea to production
-- 🗺️ **Map** - Biometric RAG system syncing Apple Health with Google Calendar to create adaptive schedules
+- **Deep Research** - AI-powered lead intelligence platform using Google's Gemini Interactions API to generate comprehensive buyer dossiers
+- **Zeke** - A Figma-like workstation for sifting through AI news with classification and 'hypescores'
+- **VAI-VEX** - A Skool clone for technical communities on real-time Convex infrastructure
+- **Automated Sales Agents** - Omni-channel autonomous agents (Voice/SMS) built on Next.js and Twilio
+- **GPTs for Devs** - 38+ custom GPTs trained on Apple's official documentation, scaled to 100k+ users
+- **Vibe with AI** - A technical community and content engine for AI engineers focusing on agentic workflows
+- **Echo** - High-scale Python pipeline to automate OBS stream clipping
+- **YouTube Coach** - A structured weekly workflow app for YouTube creators with daily task phases
+- **Port Killer** - A lightweight macOS menu bar app that shows your development ports and lets you kill them
+- **Eight Sleep Controller** - Reverse-engineered Eight Sleep's API to control smart bed via hardware buttons
+- **AI-SDLC** - A markdown-driven CLI that guides developers through an 8-step workflow from idea to production
+- **Map** - Biometric RAG system syncing Apple Health with Google Calendar to create adaptive schedules
 
 ## What I'm Doing
 
