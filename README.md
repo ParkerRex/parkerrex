@@ -24,8 +24,8 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[Gobble](https://github.com/ParkerRex/gobble)** - Local-first Chrome extension that turns passive browsing into triaged story candidates, exportable to Excalidraw.
+- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
 - **[ScreenSequence](https://github.com/ParkerRex/screensequence)** - An iOS app that captures cross-app screen recordings and extracts a minimal set of stable frames to document user journeys.
 - **[ChatGPT APK - Decompiled Repo](https://github.com/ParkerRex/chatpgpt-decompiled)** - A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
@@ -51,15 +51,19 @@
 
 ## Latest YouTube Videos
 
-- [Learning Agentic Harness' like Codex, OpenCode, Cline etc (free repo)](https://youtu.be/hzMXnEJ6QH0)
-- [Ramp Built Their Own Devin](https://youtu.be/Q0f6FGPLp70)
-- [This Agentic Coding Setup is Ahead of Its Time (42k Commits in 45 days)](https://youtu.be/mLAjiilAcUg)
+<!-- YOUTUBE:START -->
+- [Building a Fully Transparent AI Video Pipeline (No Credits, No Funny Money)](https://www.youtube.com/watch?v=iCc_Si2kouY)
+- [Chrome Shipped Agent Primitives & OpenAI's Frontier Incoming](https://www.youtube.com/watch?v=OgRS-83xWYU)
+- [From Prompts to Programs: How I Use AI to Build Personal Software](https://www.youtube.com/watch?v=VF-MwuVWtJ4)
+<!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
 
+<!-- BLOG:START -->
+- [Comparing Compaction Prompts](https://parkerrex.com/writing/comparing-compaction-prompts)
+- [OpenAI's Codex Review Prompt is Crazy](https://parkerrex.com/writing/openai-codex-review-prompt)
 - [Prompts I'm Using Going Into 2026](https://parkerrex.com/writing/prompts-2026)
-- [My Prompt Library for Agentic Coding in Early 2025](https://parkerrex.com/writing/prompt-library-agentic-coding-early-2025)
-- [The $9B Owl Who Broke the Internet](https://parkerrex.com/writing/duolingo-owl-broke-internet)
+<!-- BLOG:END -->
 
 ## Connect
 

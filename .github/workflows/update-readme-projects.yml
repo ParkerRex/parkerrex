@@ -1,4 +1,4 @@
-name: Update README Projects
+name: Update README Sections
 
 on:
   schedule:
@@ -20,10 +20,12 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Refresh trailing 30d projects
+      - name: Refresh projects, videos, and blog posts
         env:
           GH_TOKEN: ${{ github.token }}
-        run: node scripts/update-readme-projects.mjs --owner ParkerRex --days 30 --exclude parkerrex --exclude jobbi --exclude truemed --readme README.md
+          YOUTUBE_CHANNEL_ID: UCcuaQecz84wTuxKzr1Yxi4Q
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/update-readme-projects.mjs --owner ParkerRex --days 30 --exclude parkerrex --exclude jobbi --exclude truemed --readme README.md --youtube-channel-id "$YOUTUBE_CHANNEL_ID" --youtube-count 3 --blog-url "https://www.parkerrex.com/writing" --blog-count 3
 
       - name: Commit and push if changed
         run: |
@@ -35,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore(readme): refresh trailing 30d projects"
+          git commit -m "chore(readme): refresh projects, videos, and blog posts"
           git push
