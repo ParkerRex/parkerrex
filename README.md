@@ -21,27 +21,28 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/parkerrex)
 
-## Current Projects
+## Trailing 30d
 
-- **Shorts Factory** - Multi-agentic video harness where AI agents collaborate to write scripts, design scenes, and generate clips
-- **[Harness Howto](https://github.com/ParkerRex/harness-howto)** - Tracking system for open-source coding agents with auto-generated architecture documentation
-- **[XGPT](https://github.com/ParkerRex/XGPT)** - CLI for getting good posts out of X. 
-
-### Legacy Work
-
-- **Delivery Dudes** - Three-sided delivery marketplace scaled to $73M GMV and acquired by Waitr Holdings for $23M
-- **Deep Research** - AI-powered lead intelligence platform using Google's Gemini Interactions API to generate comprehensive buyer dossiers
-- **[Zeke](https://github.com/ParkerRex/zeke)** - A Figma-like workstation for sifting through AI news with classification and 'hypescores'
-- **VAI-VEX** - A Skool clone for technical communities on real-time Convex infrastructure
-- **Automated Sales Agents** - Omni-channel autonomous agents (Voice/SMS) built on Next.js and Twilio
-- **[GPTs for Devs](https://github.com/ParkerRex/gptsfordevs)** - 38+ custom GPTs trained on Apple's official documentation, scaled to 100k+ users
-- **Vibe with AI** - A technical community and content engine for AI engineers focusing on agentic workflows
-- **[Echo](https://github.com/ParkerRex/echo)** - High-scale Python pipeline to automate OBS stream clipping
-- **[YouTube Coach](https://github.com/ParkerRex/youtube-coach)** - A structured weekly workflow app for YouTube creators with daily task phases
-- **[Port Killer](https://github.com/ParkerRex/port-killer-gui-rust)** - A lightweight macOS menu bar app that shows your development ports and lets you kill them
-- **[Eight Sleep Controller](https://github.com/ParkerRex/8sleep-bed-controller)** - Reverse-engineered Eight Sleep's API to control smart bed via hardware buttons
-- **[AI-SDLC](https://github.com/ParkerRex/ai-sdlc)** - A markdown-driven CLI that guides developers through an 8-step workflow from idea to production
-- **[Map](https://github.com/ParkerRex/MAP)** - Biometric RAG system syncing Apple Health with Google Calendar to create adaptive schedules
+<!-- PROJECTS:START -->
+- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
+- **[Gobble](https://github.com/ParkerRex/gobble)** - Local-first Chrome extension that turns passive browsing into triaged story candidates, exportable to Excalidraw.
+- **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
+- **[ScreenSequence](https://github.com/ParkerRex/screensequence)** - An iOS app that captures cross-app screen recordings and extracts a minimal set of stable frames to document user journeys.
+- **[ChatGPT APK - Decompiled Repo](https://github.com/ParkerRex/chatpgpt-decompiled)** - A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
+- **[robinhood-decompiled](https://github.com/ParkerRex/trading-de-compile)** - Consolidated decompiled Robinhood Android app sources with audit artifacts and extracted trading API clients.
+- **[Jester Monorepo](https://github.com/ParkerRex/music-marketplace)** - A two-sided marketplace platform for discovering, booking, and managing event entertainers.
+- **[echo](https://github.com/ParkerRex/echo)** - Echo helps users automatically generate metadata for YouTube videos (titles, subtitles, chapters, descriptions) using Google Gemini AI.
+- **[Zeke](https://github.com/ParkerRex/zeke)** - AI-powered research workspace to chat with, organize, and highlight insights from your private story archive.
+- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[garmin-firmware](https://github.com/ParkerRex/garmin-firmware)** - Static analysis artifacts and documentation for understanding Garmin Express firmware and update workflows.
+- **[Man Meets AI](https://github.com/ParkerRex/manmetai.com)** - A premium streaming library and web portal that helps builders ship real products with AI.
+- **[X-GPT](https://github.com/ParkerRex/XGPT)** - AI-powered CLI and web UI for scraping Twitter/X, generating embeddings, and answering questions from tweet data.
+- **[opencord](https://github.com/ParkerRex/opencord)** - Opencord project
+- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
+- **[man-meets-ai](https://github.com/ParkerRex/man-meets-ai)** - Man Meets Ai project
+- **[discord-bot](https://github.com/ParkerRex/discord-bot)** - Vaibot is a function-first Discord bot that summarises YouTube videos and keeps the community informed about the latest Claude Code drops. It watches for links…
+- **[Creator](https://github.com/ParkerRex/Creator)** - Creator project
+<!-- PROJECTS:END -->
 
 ## What I'm Doing
 
@@ -71,4 +72,3 @@
 ---
 
 ### Media
-
