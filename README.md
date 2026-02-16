@@ -24,24 +24,15 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[Gobble](https://github.com/ParkerRex/gobble)** - Local-first Chrome extension that turns passive browsing into triaged story candidates, exportable to Excalidraw.
-- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
+- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
-- **[ScreenSequence](https://github.com/ParkerRex/screensequence)** - An iOS app that captures cross-app screen recordings and extracts a minimal set of stable frames to document user journeys.
 - **[ChatGPT APK - Decompiled Repo](https://github.com/ParkerRex/chatpgpt-decompiled)** - A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
 - **[robinhood-decompiled](https://github.com/ParkerRex/trading-de-compile)** - Consolidated decompiled Robinhood Android app sources with audit artifacts and extracted trading API clients.
-- **[Jester Monorepo](https://github.com/ParkerRex/music-marketplace)** - A two-sided marketplace platform for discovering, booking, and managing event entertainers.
 - **[echo](https://github.com/ParkerRex/echo)** - Echo helps users automatically generate metadata for YouTube videos (titles, subtitles, chapters, descriptions) using Google Gemini AI.
 - **[Zeke](https://github.com/ParkerRex/zeke)** - AI-powered research workspace to chat with, organize, and highlight insights from your private story archive.
-- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[garmin-firmware](https://github.com/ParkerRex/garmin-firmware)** - Static analysis artifacts and documentation for understanding Garmin Express firmware and update workflows.
-- **[Man Meets AI](https://github.com/ParkerRex/manmetai.com)** - A premium streaming library and web portal that helps builders ship real products with AI.
 - **[X-GPT](https://github.com/ParkerRex/XGPT)** - AI-powered CLI and web UI for scraping Twitter/X, generating embeddings, and answering questions from tweet data.
 - **[opencord](https://github.com/ParkerRex/opencord)** - Opencord project
-- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
-- **[man-meets-ai](https://github.com/ParkerRex/man-meets-ai)** - Man Meets Ai project
-- **[discord-bot](https://github.com/ParkerRex/discord-bot)** - Vaibot is a function-first Discord bot that summarises YouTube videos and keeps the community informed about the latest Claude Code drops. It watches for links…
-- **[Creator](https://github.com/ParkerRex/Creator)** - Creator project
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
