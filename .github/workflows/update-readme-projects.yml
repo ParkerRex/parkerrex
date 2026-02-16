@@ -20,12 +20,22 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Verify token can read private repos
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_README_GH_TOKEN || github.token }}
+        run: |
+          private_count=$(gh repo list ParkerRex --visibility private --limit 1 --json name --jq 'length')
+          if [ "$private_count" -eq 0 ]; then
+            echo "::error::No private repos are visible to GH_TOKEN. Set PROFILE_README_GH_TOKEN to a PAT with private repo read access."
+            exit 1
+          fi
+
       - name: Refresh projects, videos, and blog posts
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PROFILE_README_GH_TOKEN || github.token }}
           YOUTUBE_CHANNEL_ID: UCcuaQecz84wTuxKzr1Yxi4Q
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/update-readme-projects.mjs --owner ParkerRex --days 30 --exclude parkerrex --exclude jobbi --exclude truemed --readme README.md --youtube-channel-id "$YOUTUBE_CHANNEL_ID" --youtube-count 3 --blog-url "https://www.parkerrex.com/writing" --blog-count 3
+        run: node scripts/update-readme-projects.mjs --owner ParkerRex --days 30 --exclude parkerrex --exclude jobbi --exclude truemed --readme README.md --require-private-access --youtube-channel-id "$YOUTUBE_CHANNEL_ID" --youtube-count 3 --blog-url "https://www.parkerrex.com/writing" --blog-count 3
 
       - name: Commit and push if changed
         run: |

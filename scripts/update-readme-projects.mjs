@@ -18,6 +18,7 @@ const DEFAULT_YOUTUBE_CHANNEL_ID = "UCcuaQecz84wTuxKzr1Yxi4Q";
 const DEFAULT_YOUTUBE_COUNT = 3;
 const DEFAULT_BLOG_URL = "https://www.parkerrex.com/writing";
 const DEFAULT_BLOG_COUNT = 3;
+const DEFAULT_REQUIRE_PRIVATE_ACCESS = false;
 
 function parseArgs(argv) {
   const args = {
@@ -33,6 +34,7 @@ function parseArgs(argv) {
     blogUrl: DEFAULT_BLOG_URL,
     blogCount: DEFAULT_BLOG_COUNT,
     youtubeApiKey: process.env.YOUTUBE_API_KEY || process.env.YT_API_KEY || "",
+    requirePrivateAccess: DEFAULT_REQUIRE_PRIVATE_ACCESS,
   };
 
   for (let i = 0; i < argv.length; i += 1) {
@@ -92,6 +94,10 @@ function parseArgs(argv) {
     if (token === "--youtube-api-key" && argv[i + 1]) {
       args.youtubeApiKey = argv[i + 1];
       i += 1;
+      continue;
+    }
+    if (token === "--require-private-access") {
+      args.requirePrivateAccess = true;
       continue;
     }
   }
@@ -227,16 +233,14 @@ function pickBestSummary(candidates) {
   return "";
 }
 
-function getPublicRepos(owner) {
-  const output = runGh([
-    "repo",
-    "list",
-    owner,
-    "--limit",
-    "200",
-    "--json",
-    "name,description,url,pushedAt,isFork,isArchived",
-  ]);
+function getRepos(owner, { visibility = "", limit = 200 } = {}) {
+  const ghArgs = ["repo", "list", owner, "--limit", String(limit)];
+  if (visibility) {
+    ghArgs.push("--visibility", visibility);
+  }
+  ghArgs.push("--json", "name,description,url,pushedAt,isFork,isArchived");
+
+  const output = runGh(ghArgs);
   return JSON.parse(output);
 }
 
@@ -471,7 +475,16 @@ async function main() {
   const cutoff = Date.now() - args.days * 24 * 60 * 60 * 1000;
   const readmeAbsolutePath = path.resolve(process.cwd(), args.readmePath);
 
-  const repos = getPublicRepos(args.owner)
+  if (args.requirePrivateAccess) {
+    const privateRepos = getRepos(args.owner, { visibility: "private", limit: 1 });
+    if (privateRepos.length === 0) {
+      throw new Error(
+        `No private repos are visible for ${args.owner}. Aborting to avoid removing private projects from README. Configure GH_TOKEN with private repo access, or rerun without --require-private-access.`,
+      );
+    }
+  }
+
+  const repos = getRepos(args.owner, { limit: 200 })
     .filter((repo) => !repo.isFork && !repo.isArchived)
     .filter((repo) => !args.excludes.has(repo.name.toLowerCase()))
     .filter((repo) => Date.parse(repo.pushedAt) >= cutoff)

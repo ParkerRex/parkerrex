@@ -25,6 +25,9 @@
 
 <!-- PROJECTS:START -->
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[man-meets-ai.com](https://github.com/ParkerRex/man-meets-ai.com)** - TanStack Start (Vite) frontend + Rust (Axum + SQLx) API + SEO network tooling.
+- **[gobble](https://github.com/ParkerRex/gobble)** - Chrome extension + Rust + Postgres backend that turns passive browsing into a triaged set of story candidates, exportable to Excalidraw.
+- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
 - **[ChatGPT APK - Decompiled Repo](https://github.com/ParkerRex/chatpgpt-decompiled)** - A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
 - **[robinhood-decompiled](https://github.com/ParkerRex/trading-de-compile)** - Consolidated decompiled Robinhood Android app sources with audit artifacts and extracted trading API clients.
