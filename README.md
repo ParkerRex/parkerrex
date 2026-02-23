@@ -24,9 +24,9 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[gobble](https://github.com/ParkerRex/gobble)** - Chrome extension + Rust + Postgres backend that turns passive browsing into a triaged set of story candidates, exportable to Excalidraw.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[man-meets-ai.com](https://github.com/ParkerRex/man-meets-ai.com)** - TanStack Start (Vite) frontend + Rust (Axum + SQLx) API + SEO network tooling.
+- **[gobble](https://github.com/ParkerRex/gobble)** - Chrome extension + Rust + Postgres backend that turns passive browsing into a triaged set of story candidates, exportable to Excalidraw.
 - **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
 - **[ScreenSequence](https://github.com/ParkerRex/screensequence)** - An iOS app that captures cross-app screen recordings and extracts a minimal set of stable frames to document user journeys.
