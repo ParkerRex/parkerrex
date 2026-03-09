@@ -24,6 +24,7 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
+- **[manmeetsai-workspace](https://github.com/ParkerRex/manmeetsai-workspace)** - Manmeetsai Workspace project
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[man-meets-ai-simple](https://github.com/ParkerRex/man-meets-ai-simple)** - Simple Stripe-to-YouTube launch site for Man Meets AI
 - **[Skills](https://github.com/ParkerRex/Skills)** - Some of the skills from my global directory
@@ -43,7 +44,6 @@
 - **[opencord](https://github.com/ParkerRex/opencord)** - Opencord project
 - **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
 - **[man-meets-ai](https://github.com/ParkerRex/man-meets-ai)** - Man Meets Ai project
-- **[discord-bot](https://github.com/ParkerRex/discord-bot)** - Vaibot is a function-first Discord bot that summarises YouTube videos and keeps the community informed about the latest Claude Code drops. It watches for links…
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
@@ -54,9 +54,9 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Building a Fully Transparent AI Video Pipeline (No Credits, No Funny Money)](https://www.youtube.com/watch?v=iCc_Si2kouY)
-- [Chrome Shipped Agent Primitives & OpenAI's Frontier Incoming](https://www.youtube.com/watch?v=OgRS-83xWYU)
-- [From Prompts to Programs: How I Use AI to Build Personal Software](https://www.youtube.com/watch?v=VF-MwuVWtJ4)
+- [This Agentic Coding Setup is Ahead of Its Time (42k Commits in 45 days is ABSURD)](https://www.youtube.com/watch?v=mLAjiilAcUg)
+- [The Minecraft Story](https://www.youtube.com/shorts/52-ujYk8YqU)
+- [How Cell Phones Work](https://www.youtube.com/shorts/HvTRA_iesOI)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
