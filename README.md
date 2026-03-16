@@ -24,7 +24,11 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[manmeetsai-workspace](https://github.com/ParkerRex/manmeetsai-workspace)** - Manmeetsai Workspace project
+- **[storyblast](https://github.com/ParkerRex/storyblast)** - Storyblast is a Next.js app scaffold with a public landing page, Stripe checkout, Clerk auth, Convex-backed access state, and a protected workspace.
+- **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
+- **[manmeetsai-workspace](https://github.com/ParkerRex/manmeetsai-workspace)** - Ship by Sunday is the app behind a guided weekend sprint for builders who want to go from rough idea to shipped v1. This repo contains the public marketing sit…
+- **[team-wiki](https://github.com/ParkerRex/team-wiki)** - This repo is the internal operating system for the AI team.
+- **[.agents](https://github.com/ParkerRex/.agents)** - Canonical user-scoped Codex skill store for this machine.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[man-meets-ai-simple](https://github.com/ParkerRex/man-meets-ai-simple)** - Simple Stripe-to-YouTube launch site for Man Meets AI
 - **[Skills](https://github.com/ParkerRex/Skills)** - Some of the skills from my global directory
@@ -32,18 +36,6 @@
 - **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[marketing-team](https://github.com/ParkerRex/marketing-team)** - This repo owns growth/SEO/marketing execution systems moved out of man-meets-ai.com.
 - **[gobble](https://github.com/ParkerRex/gobble)** - Chrome extension + Rust + Postgres backend that turns passive browsing into a triaged set of story candidates, exportable to Excalidraw.
-- **[MAP](https://github.com/ParkerRex/MAP)** - A personal productivity platform that unifies calendar, tasks, notes, and health data in one workspace.
-- **[ScreenSequence](https://github.com/ParkerRex/screensequence)** - An iOS app that captures cross-app screen recordings and extracts a minimal set of stable frames to document user journeys.
-- **[ChatGPT APK - Decompiled Repo](https://github.com/ParkerRex/chatpgpt-decompiled)** - A consolidated reverse-engineering workspace for the ChatGPT Android APK with decompiled code, resources, and curated analysis docs.
-- **[robinhood-decompiled](https://github.com/ParkerRex/trading-de-compile)** - Consolidated decompiled Robinhood Android app sources with audit artifacts and extracted trading API clients.
-- **[Jester Monorepo](https://github.com/ParkerRex/music-marketplace)** - A two-sided marketplace platform for discovering, booking, and managing event entertainers.
-- **[echo](https://github.com/ParkerRex/echo)** - Echo helps users automatically generate metadata for YouTube videos (titles, subtitles, chapters, descriptions) using Google Gemini AI.
-- **[Zeke](https://github.com/ParkerRex/zeke)** - AI-powered research workspace to chat with, organize, and highlight insights from your private story archive.
-- **[garmin-firmware](https://github.com/ParkerRex/garmin-firmware)** - Static analysis artifacts and documentation for understanding Garmin Express firmware and update workflows.
-- **[X-GPT](https://github.com/ParkerRex/XGPT)** - AI-powered CLI and web UI for scraping Twitter/X, generating embeddings, and answering questions from tweet data.
-- **[opencord](https://github.com/ParkerRex/opencord)** - Opencord project
-- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
-- **[man-meets-ai](https://github.com/ParkerRex/man-meets-ai)** - Man Meets Ai project
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
