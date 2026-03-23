@@ -24,18 +24,18 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[storyblast](https://github.com/ParkerRex/storyblast)** - Storyblast is a Next.js app scaffold with a public landing page, Stripe checkout, Clerk auth, Convex-backed access state, and a protected workspace.
+- **[agents-system](https://github.com/ParkerRex/agents-system)** - summary: Operating guide for the .agents workspace, including personality, memory, routing, tasks, and outputs.
+- **[manmeetsai-workspace](https://github.com/ParkerRex/manmeetsai-workspace)** - Why its awesome
+- **[storyblast](https://github.com/ParkerRex/storyblast)** - Storyblast is the canonical product repo for the public marketing site, the plugin account web app, and the local Storyblast Figma plugin runtime.
 - **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
-- **[manmeetsai-workspace](https://github.com/ParkerRex/manmeetsai-workspace)** - Ship by Sunday is the app behind a guided weekend sprint for builders who want to go from rough idea to shipped v1. This repo contains the public marketing sit…
-- **[team-wiki](https://github.com/ParkerRex/team-wiki)** - This repo is the internal operating system for the AI team.
+- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
 - **[.agents](https://github.com/ParkerRex/.agents)** - Canonical user-scoped Codex skill store for this machine.
+- **[team-wiki](https://github.com/ParkerRex/team-wiki)** - This repo is the internal operating system for the AI team.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[man-meets-ai-simple](https://github.com/ParkerRex/man-meets-ai-simple)** - Simple Stripe-to-YouTube launch site for Man Meets AI
 - **[Skills](https://github.com/ParkerRex/Skills)** - Some of the skills from my global directory
-- **[man-meets-ai.com](https://github.com/ParkerRex/man-meets-ai.com)** - Production deploys are automatic on every push to main via .github/workflows/deploy-main.yml.
-- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
+- **[netflix](https://github.com/ParkerRex/netflix)** - Production deploys are automatic on every push to main via .github/workflows/deploy-main.yml.
 - **[marketing-team](https://github.com/ParkerRex/marketing-team)** - This repo owns growth/SEO/marketing execution systems moved out of man-meets-ai.com.
-- **[gobble](https://github.com/ParkerRex/gobble)** - Chrome extension + Rust + Postgres backend that turns passive browsing into a triaged set of story candidates, exportable to Excalidraw.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
