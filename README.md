@@ -24,11 +24,11 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[mma-ship-by-sunday](https://github.com/ParkerRex/mma-ship-by-sunday)** - Packet-first product builder and agent-ready starter for shipping a real product by Sunday
-- **[ask-parker](https://github.com/ParkerRex/ask-parker)** - summary: Entry-point guide for Parker's assistant runtime, covering what it already does, how to run it, how it is architected, and where the deeper docs live.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
-- **[operator-layer](https://github.com/ParkerRex/operator-layer)** - Operator Pack Buildout.
+- **[worker](https://github.com/ParkerRex/worker)** - title: "Worker"
+- **[mma-ship-by-sunday](https://github.com/ParkerRex/mma-ship-by-sunday)** - Packet-first product builder and agent-ready starter for shipping a real product by Sunday
 - **[idletime](https://github.com/ParkerRex/idletime)** - Local Bun CLI for Codex activity, token burn, visual 24-hour rhythm charts, and wake-window idle time.
+- **[operator-layer](https://github.com/ParkerRex/operator-layer)** - Operator Pack Buildout.
 - **[environment](https://github.com/ParkerRex/environment)** - This repository contains my dotfiles, which are the config files and scripts I use to customize my development environment. These files help me maintain a cons…
 - **[storyblast](https://github.com/ParkerRex/storyblast)** - Storyblast is the canonical product repo for the public marketing site, the plugin account web app, and the local Storyblast Figma plugin runtime.
 - **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
