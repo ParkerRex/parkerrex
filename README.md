@@ -24,17 +24,12 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[worker](https://github.com/ParkerRex/worker)** - title: "Worker"
-- **[mma-ship-by-sunday](https://github.com/ParkerRex/mma-ship-by-sunday)** - Packet-first product builder and agent-ready starter for shipping a real product by Sunday
+- **[ship-by-sunday](https://github.com/ParkerRex/ship-by-sunday)** - Packet-first product builder and agent-ready starter for shipping a real product by Sunday
+- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[idletime](https://github.com/ParkerRex/idletime)** - Local Bun CLI for Codex activity, token burn, visual 24-hour rhythm charts, and wake-window idle time.
 - **[operator-layer](https://github.com/ParkerRex/operator-layer)** - Operator Pack Buildout.
 - **[environment](https://github.com/ParkerRex/environment)** - This repository contains my dotfiles, which are the config files and scripts I use to customize my development environment. These files help me maintain a cons…
-- **[storyblast](https://github.com/ParkerRex/storyblast)** - Storyblast is the canonical product repo for the public marketing site, the plugin account web app, and the local Storyblast Figma plugin runtime.
-- **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
-- **[Genesis](https://github.com/ParkerRex/genesis)** - AI-powered video creation platform with intelligent agent assistance.
-- **[.agents](https://github.com/ParkerRex/.agents)** - Canonical user-scoped Codex skill store for this machine.
-- **[team-wiki](https://github.com/ParkerRex/team-wiki)** - This repo is the internal operating system for the AI team.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
