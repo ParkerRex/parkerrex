@@ -24,12 +24,10 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[worker](https://github.com/ParkerRex/worker)** - title: "Worker"
-- **[ship-by-sunday](https://github.com/ParkerRex/ship-by-sunday)** - Packet-first product builder and agent-ready starter for shipping a real product by Sunday
+- **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration, centered around a symlinked /.config checkout.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[idletime](https://github.com/ParkerRex/idletime)** - Local Bun CLI for Codex activity, token burn, visual 24-hour rhythm charts, and wake-window idle time.
 - **[operator-layer](https://github.com/ParkerRex/operator-layer)** - Operator Pack Buildout.
-- **[environment](https://github.com/ParkerRex/environment)** - This repository contains my dotfiles, which are the config files and scripts I use to customize my development environment. These files help me maintain a cons…
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
