@@ -27,7 +27,6 @@
 - **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. The repo is designed to live at
 - **[codex-setup](https://github.com/ParkerRex/codex-setup)** - This repo is intended to carry the portable parts of the local Codex setup to another laptop.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
-- **[idletime](https://github.com/ParkerRex/idletime)** - Local Bun CLI for Codex activity, token burn, visual 24-hour rhythm charts, and wake-window idle time.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
@@ -38,9 +37,9 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Stop Prompting Coding Agents. Build Loops Instead.](https://www.youtube.com/watch?v=keHVvlH6VBQ)
-- [This Agentic Coding Setup is Ahead of Its Time (42k Commits in 45 days is ABSURD)](https://www.youtube.com/watch?v=mLAjiilAcUg)
-- [The Minecraft Story](https://www.youtube.com/shorts/52-ujYk8YqU)
+- [Breaking Down the Codex Build Loop (Exec Plans, Programs, Hooks)](https://www.youtube.com/watch?v=l6hiqRQ5VMc)
+- [HOW TO CODEX CLI LIKE A BOSS (Meta Prompting, Execplans, Spec.md, Program.Md)](https://www.youtube.com/watch?v=io3i9hIqSQE)
+- [AI Engineer Shows You How to Offload Tasks to AI Step by Step | Worker Series EP 1](https://www.youtube.com/watch?v=fMubsh2M_es)
 <!-- YOUTUBE:END -->
 
 ## Latest Blog Posts
