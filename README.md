@@ -24,9 +24,9 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. The repo is designed to live at
+- **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
+- **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
 - **[codex-setup](https://github.com/ParkerRex/codex-setup)** - This repo is intended to carry the portable parts of the local Codex setup to another laptop.
-- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
