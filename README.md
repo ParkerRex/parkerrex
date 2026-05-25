@@ -24,6 +24,8 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
+- **[openai-status-discord-alert](https://github.com/ParkerRex/openai-status-discord-alert)** - Cloudflare Worker that polls OpenAI and Claude/Anthropic status feeds, the openai/codex GitHub release feed, and selected X posts, then posts updates to Discor…
+- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
 - **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
 - **[codex-setup](https://github.com/ParkerRex/codex-setup)** - This repo is intended to carry the portable parts of the local Codex setup to another laptop.
