@@ -24,11 +24,12 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[openai-status-discord-alert](https://github.com/ParkerRex/openai-status-discord-alert)** - Cloudflare Worker that polls OpenAI and Claude/Anthropic status feeds, the openai/codex GitHub release feed, and selected X posts, then posts updates to Discor…
+- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[Nextjs-SolidJs-Comparison](https://github.com/ParkerRex/Nextjs-SolidJs-Comparison)** - Throwaway examples comparing how the same feature (fetch and display items) is built five different ways.
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
+- **[openai-status-discord-alert](https://github.com/ParkerRex/openai-status-discord-alert)** - Cloudflare Worker that polls OpenAI and Claude/Anthropic status feeds, the openai/codex GitHub release feed, and selected X posts, then posts updates to Discor…
 - **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
-- **[codex-setup](https://github.com/ParkerRex/codex-setup)** - This repo is intended to carry the portable parts of the local Codex setup to another laptop.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
@@ -47,9 +48,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG:START -->
-- [Comparing Compaction Prompts](https://parkerrex.com/writing/comparing-compaction-prompts)
-- [OpenAI's Codex Review Prompt is Crazy](https://parkerrex.com/writing/openai-codex-review-prompt)
-- [Prompts I'm Using Going Into 2026](https://parkerrex.com/writing/prompts-2026)
+- [Comparing Compaction Promptsai2 minJan 18, 2026](https://www.parkerrex.com/writing/comparing-compaction-prompts)
+- [OpenAI's Codex Review Prompt is Crazyai7 minJan 18, 2026](https://www.parkerrex.com/writing/openai-codex-review-prompt)
+- [Prompts I'm Using Going Into 2026ai2 minJan 6, 2026](https://www.parkerrex.com/writing/prompts-2026)
 <!-- BLOG:END -->
 
 ## Connect
