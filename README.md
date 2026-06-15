@@ -25,12 +25,11 @@
 
 <!-- PROJECTS:START -->
 - **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
-- **[synthia](https://github.com/ParkerRex/synthia)** - sylenth-ai is a lab-built macOS software instrument project. The product goal is to rebuild everyone's favorite vintage VST, Sylenth1, optimized for today's ma…
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
+- **[synthia](https://github.com/ParkerRex/synthia)** - synthia is a lab-built macOS software instrument project. The product goal is to rebuild everyone's favorite vintage VST, Sylenth1, optimized for today's macOS…
 - **[Nextjs-SolidJs-Comparison](https://github.com/ParkerRex/Nextjs-SolidJs-Comparison)** - Throwaway examples comparing how the same feature (fetch and display items) is built five different ways.
 - **[openai-status-discord-alert](https://github.com/ParkerRex/openai-status-discord-alert)** - Cloudflare Worker that polls OpenAI and Claude/Anthropic status feeds, the openai/codex GitHub release feed, and selected X posts, then posts updates to Discor…
-- **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
