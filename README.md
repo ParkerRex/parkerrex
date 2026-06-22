@@ -29,7 +29,6 @@
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
 - **[synthia](https://github.com/ParkerRex/synthia)** - synthia is a lab-built macOS software instrument project. The product goal is to rebuild everyone's favorite vintage VST, Sylenth1, optimized for today's macOS…
 - **[Nextjs-SolidJs-Comparison](https://github.com/ParkerRex/Nextjs-SolidJs-Comparison)** - Throwaway examples comparing how the same feature (fetch and display items) is built five different ways.
-- **[openai-status-discord-alert](https://github.com/ParkerRex/openai-status-discord-alert)** - Cloudflare Worker that polls OpenAI and Claude/Anthropic status feeds, the openai/codex GitHub release feed, and selected X posts, then posts updates to Discor…
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
