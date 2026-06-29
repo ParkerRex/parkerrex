@@ -24,11 +24,12 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
+- **[worker](https://github.com/ParkerRex/worker)** - title: "Worker"
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
+- **[codex-token-burn-banner](https://github.com/ParkerRex/codex-token-burn-banner)** - Generate local Codex usage graphics and optionally post them to X
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
 - **[synthia](https://github.com/ParkerRex/synthia)** - synthia is a lab-built macOS software instrument project. The product goal is to rebuild everyone's favorite vintage VST, Sylenth1, optimized for today's macOS…
-- **[Nextjs-SolidJs-Comparison](https://github.com/ParkerRex/Nextjs-SolidJs-Comparison)** - Throwaway examples comparing how the same feature (fetch and display items) is built five different ways.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
