@@ -24,9 +24,10 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[worker](https://github.com/ParkerRex/worker)** - title: "Worker"
-- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[worker](https://github.com/ParkerRex/worker)** - The Little Worker — keyless, managed AI model access with agent workspaces. Rent models with no API key to paste, billed at usage and enforced at the gateway.…
 - **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
+- **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
+- **[gtd-cowork](https://github.com/ParkerRex/gtd-cowork)** - Private plain-HTML GTD project workspace.
 - **[codex-token-burn-banner](https://github.com/ParkerRex/codex-token-burn-banner)** - Generate local Codex usage graphics and optionally post them to X
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
 - **[synthia](https://github.com/ParkerRex/synthia)** - synthia is a lab-built macOS software instrument project. The product goal is to rebuild everyone's favorite vintage VST, Sylenth1, optimized for today's macOS…
