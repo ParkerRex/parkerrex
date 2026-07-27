@@ -24,9 +24,9 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[little-worker](https://github.com/ParkerRex/little-worker)** - Hosted-first system for operating digital workers, with one portable execution kernel, checked-in workforce source, training, and desktop capabilities.
-- **[deep-research-demo](https://github.com/ParkerRex/deep-research-demo)** - Made in 2024 for client - needs updating. Human-in-the-loop AI research workspace for real estate: reviewable dossiers, proposal-first enrichment, secure multi…
 - **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
+- **[deep-research-demo](https://github.com/ParkerRex/deep-research-demo)** - Made in 2024 for client - needs updating. Human-in-the-loop AI research workspace for real estate: reviewable dossiers, proposal-first enrichment, secure multi…
+- **[little-worker](https://github.com/ParkerRex/little-worker)** - Hosted-first system for operating digital workers, with one portable execution kernel, checked-in workforce source, training, and desktop capabilities.
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[shorts-factory](https://github.com/ParkerRex/shorts-factory)** - Make Wendover Productions style minature video essays with an AI led video editor.
 - **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
@@ -35,7 +35,6 @@
 - **[codex-config](https://github.com/ParkerRex/codex-config)** - Portable Codex configuration and developer setup
 - **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
 - **[gtd-cowork](https://github.com/ParkerRex/gtd-cowork)** - Private plain-HTML GTD project workspace.
-- **[codex-token-burn-banner](https://github.com/ParkerRex/codex-token-burn-banner)** - Generate local Codex usage graphics and optionally post them to X
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
