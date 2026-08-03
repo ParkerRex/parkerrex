@@ -34,7 +34,6 @@
 - **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
 - **[codex-config](https://github.com/ParkerRex/codex-config)** - Portable Codex configuration and developer setup
 - **[.config](https://github.com/ParkerRex/.config)** - Personal macOS and CLI configuration. This machine is the current source of
-- **[gtd-cowork](https://github.com/ParkerRex/gtd-cowork)** - Private plain-HTML GTD project workspace.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
