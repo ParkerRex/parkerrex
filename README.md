@@ -24,15 +24,10 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
-- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
-- **[little-worker](https://github.com/ParkerRex/little-worker)** - Hosted-first system for operating digital workers, with one portable execution kernel, checked-in workforce source, training, and desktop capabilities.
 - **[deep-research-demo](https://github.com/ParkerRex/deep-research-demo)** - Made in 2024 for client - needs updating. Human-in-the-loop AI research workspace for real estate: reviewable dossiers, proposal-first enrichment, secure multi…
+- **[prex.com](https://github.com/ParkerRex/prex.com)** - Prex Com project
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
-- **[shorts-factory](https://github.com/ParkerRex/shorts-factory)** - Make Wendover Productions style minature video essays with an AI led video editor.
-- **[ship-by-sunday-starter](https://github.com/ParkerRex/ship-by-sunday-starter)** - Starter template with Next.js, Clerk, Convex, Stripe, protected routes, and local Codex skills.
-- **[little-loop](https://github.com/ParkerRex/little-loop)** - Durable planning, execution, and proof loops for coding agents.
-- **[agentscripts](https://github.com/ParkerRex/agent_scripts)** - Private agent scripts customization mirror
-- **[codex-config](https://github.com/ParkerRex/codex-config)** - Portable Codex configuration and developer setup
+- **[little-worker](https://github.com/ParkerRex/little-worker)** - Hosted-first system for operating digital workers, with one portable execution kernel, checked-in workforce source, training, and desktop capabilities.
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
