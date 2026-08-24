@@ -24,8 +24,8 @@
 ## Trailing 30d
 
 <!-- PROJECTS:START -->
+- **[prex.com](https://github.com/ParkerRex/prex.com)** - Parker Rex's personal site for publishing writing, showcasing projects, and shipping AI eval content.
 - **[deep-research-demo](https://github.com/ParkerRex/deep-research-demo)** - Made in 2024 for client - needs updating. Human-in-the-loop AI research workspace for real estate: reviewable dossiers, proposal-first enrichment, secure multi…
-- **[prex.com](https://github.com/ParkerRex/prex.com)** - Prex Com project
 - **[Open Source Snapshot](https://github.com/ParkerRex/Open-Source-Snapshot)** - An automated snapshot-and-docs workspace for tracking and studying fast-moving open-source coding-agent projects.
 - **[little-worker](https://github.com/ParkerRex/little-worker)** - Hosted-first system for operating digital workers, with one portable execution kernel, checked-in workforce source, training, and desktop capabilities.
 <!-- PROJECTS:END -->
